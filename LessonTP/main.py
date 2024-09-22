@@ -3,6 +3,7 @@ x = int(input())
 y = int(input())
 z = int(input())
 v = x + y - z
+print(v)
 
 
 
